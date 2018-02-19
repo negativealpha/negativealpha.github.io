@@ -1,0 +1,11 @@
+# basic options
+title: Negative Alpha Bets
+author: negative alpha
+email: negativealphaportfolio@gmail.com
+description: Ideas from the middle-frontish, frontish-backish office
+twitter_username: negative_alpha
+github_username:  negativealpha
+
+# Build settings
+markdown: kramdown
+theme: minima
