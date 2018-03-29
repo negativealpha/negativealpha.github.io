@@ -24,9 +24,6 @@ Cool. Now here's a quotation (while adding a break and escaping the dash):
 > You miss 100% of the shots you don't take - Wayne Gretzky<br />
 \- Michael Scott
 
-And pictures are great, let's post a few.
+And pictures are great and so is coffee:
 
-One that is linked:
-
-One that is local:
- 
+![caffeine]({{"/assets/pexels-photo-539432.jpeg" | absolute_url }})
